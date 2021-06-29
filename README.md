@@ -13,20 +13,20 @@ Install my-project with go
 
 ```
 
-go get github.com/Deepanjalkumar/sikert
+go get github.com/Deepanjalkumar/axtrack
 
-cd $GO-PATH/sikert
+cd $GO-PATH/axtrack
 
-go build sikert.go
+go build axtrack.go
 ```
     
 ## Usage/Examples
 
 ```GOLANG
 
-./sikert -h
+./axtrack -h
 
-./sikert -domain domain-name -output result.txt
+./axtrack -domain domain-name -output result.txt
 ```
 
   
