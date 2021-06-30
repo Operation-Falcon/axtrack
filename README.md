@@ -37,7 +37,7 @@ go build axtrack.go
   
 ## Screenshots
 
-![pip](https://user-images.githubusercontent.com/55708909/123727967-26b26000-d8b0-11eb-8a23-f6d8815b6d5b.png)
+![axtrack](https://user-images.githubusercontent.com/55708909/123974992-ac322f00-d9da-11eb-8eb8-81becd7a15ff.png)
 
   
 ## Feedback
