@@ -3,7 +3,7 @@
 
 Axtrack extract all possible urls for a given domain from archive.
 
-![axtrack](https://user-images.githubusercontent.com/55708909/123728244-9cb6c700-d8b0-11eb-8e1a-694e17dd89ec.png)
+![axtrack](https://user-images.githubusercontent.com/55708909/123974992-ac322f00-d9da-11eb-8eb8-81becd7a15ff.png)
 
 
     
