@@ -13,7 +13,7 @@ Install my-project with go
 
 ```
 
-go get github.com/Deepanjalkumar/axtrack
+go get github.com/Operation-Falcon/axtrack
 
 cd $GO-PATH/axtrack
 
